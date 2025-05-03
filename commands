@@ -1,0 +1,29 @@
+
+before starting the project, make sure Read (READEME.md) file and  you  have installed all the dependencies for both frontend and backend.
+# To install dependencies for frontend:
+First step: cd Frontend
+Second step: cd hospitalmanagement
+Third step: npm start
+
+# To install dependencies for backend:
+First step: cd Backend
+Second step: npx nodemon index
+
+
+
+
+
+To start frontend:
+First step: cd Frontend
+Second step: cd hospitalmanagement
+Third step: npm start
+ cd Frontend
+ cd hospitalmanagement
+npm start
+
+To start Backend: 
+First step: cd Backend
+second step: npx nodemon index
+cd Backend
+npx nodemon index
+
